@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1b9cad03bc68f374e831d0798335001c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Forvertz 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a18d6dab987398d43b601d46ff05c69a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
